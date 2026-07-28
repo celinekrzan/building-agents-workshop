@@ -1,4 +1,0 @@
-interface:
-  display_name: "Crucible"
-  short_description: "Pressure-test market-facing work before it ships"
-  default_prompt: "Use $crucible to pressure-test this artifact from the recipient’s point of view."
