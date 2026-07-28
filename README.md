@@ -27,6 +27,6 @@ Clipify needs a few local tools (ffmpeg, Whisper, Python). See [clipify/README.m
 
 Free to use as-is or to fork into your own. Start with one, run it on something real this week, then make it yours.
 
-All of these are mine except clipify, which is adapted from [Louise de Sadeleer](https://github.com/louisedesadeleer) and keeps its own license and credit.
+weekly-dashboard is mine. Clipify is adapted from [Louise de Sadeleer](https://github.com/louisedesadeleer) and keeps its own license and credit. Fanout, stochastic, autoresearch, and crucible are by [Jacob Rhinehart](https://github.com/JacobRhinehart).
 
 — Celine Krzan
